@@ -1,1 +1,1 @@
-# burger
+This is the fourteenth week's homework assignment. In this assignment, we are building a true full stack application with Express.js, Node.js, Handlebars, and MySQL.
